@@ -1,6 +1,6 @@
 #  Omnifood-project
 
-##  HTML
+##  TECH STACK
 
 ***
 + HTML
